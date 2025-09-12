@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "agri-green": {
+          DEFAULT: "hsl(var(--agri-green))",
+          light: "hsl(var(--agri-green-light))",
+        },
+        "agri-earth": "hsl(var(--agri-earth))",
+        "agri-gold": "hsl(var(--agri-gold))",
+        "agri-sky": "hsl(var(--agri-sky))",
       },
       borderRadius: {
         lg: "var(--radius)",
